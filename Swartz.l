@@ -67,6 +67,7 @@ false				   {return FALSE;}
 [a-zA-z]+([a-zA-z]*|[a-zA-z]*)	{yylval.id = yytext[0]; return NUM_IDENTIFIER;}
 [a-zA-z]+([a-zA-z]*|[a-zA-z]*)\: {return NAME_FUNC;}
 
+
 %%
 
 int yywrap (void) {return 1;}
