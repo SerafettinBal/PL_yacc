@@ -7,7 +7,6 @@ SWARTZ PROGRAMMING LANGUAGE
 
 
 
-
 1. DEFINITION OF SWARTZ PL
 ***************************
 
