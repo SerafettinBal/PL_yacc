@@ -1,0 +1,36 @@
+a=false;
+b=true;
+if(a | b) 
+then 
+c = true;
+
+print(c);
+
+
+
+x = 10;
+y = 5;
+z = 2;
+
+if x == 10:
+	y = y + 5;
+	x = 20;
+endif;
+
+
+call print(y)
+call print(x)
+
+while z == 2:
+	z = 3;
+endwhile;
+
+call print(z);
+
+x = 10;
+
+if x == 15:
+call print(10);
+else:
+call print(35);
+endif; 
