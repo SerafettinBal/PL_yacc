@@ -1,5 +1,3 @@
-
-
 Programming  Languages : Lexical Analyzer and Yacc Parser
 ***********************************************************
 SWARTZ PROGRAMMING LANGUAGE
