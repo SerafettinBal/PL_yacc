@@ -13,9 +13,10 @@ SWARTZ PROGRAMMING LANGUAGE
 • In the Swartz Programming language; As with Java and Python programming languages, care was taken to 
 use expressions that are easy to write and understand, and easy to understand by anyone. The concept
 of if_statement, while-statement and form of logic expression are designed as in Java programming
-language. The function structure of Swartz is more like the Python programming languages. Data types 
-such as string, digit, char, boolean, double, array are available in Swartz. Also, in Swartz, all
-operation and comparison symbols such as "=", "+", "-", "*", "/", "! =", "==", ">", "<", "> =", "<="
+language. The function structure of Swartz is more like the Python programming languages. 
+
+• Data types such as string, digit, char, boolean, double, array are available in Swartz. Also, in Swartz, 
+all operation and comparison symbols such as "=", "+", "-", "*", "/", "! =", "==", ">", "<", "> =", "<="
 are included. All these symbols are available in the Swartz.l lex file for the Swartz programming
 language and all these expressions are compiled in Swartz.y file.
 
@@ -26,7 +27,7 @@ language and all these expressions are compiled in Swartz.y file.
 • Swartz is ran by running the makefile and giving it to myPL as input -----> make ./myPL < example.swa
 
 • In this language where you can make operator comparisons and assignments, you can create your own 
-functions, define function values, use these values ​​and call the function created from other files.
+functions, define function values, use these values and call the function created from other files.
 
 • Extended Backus Normal Form of the language will be given in part 2.
  
